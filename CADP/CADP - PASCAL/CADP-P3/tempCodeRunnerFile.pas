@@ -1,0 +1,2 @@
+
+    ReadLn(c.codigo);
